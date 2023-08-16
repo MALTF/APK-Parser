@@ -3,7 +3,7 @@ Apk parser lib, for decoding binary XML files, getting APK meta info.
 
 ---------------------------------------------------------------------
 
-![Screenshot](/Screenshot.png width = 200px)
+![Screenshot](/Screenshot.png =200px)
 
 Table of Contents
 =================
