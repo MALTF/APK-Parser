@@ -1,4 +1,4 @@
-# APK-Parser <a href=""><img src="https://img.shields.io/badge/build-pass-brightgreen"/></a> [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MALTF/APK-Parser/blob/main/LICENSE)
+# APK-Parser <a href=""><img src="https://img.shields.io/badge/Build-pass-brightgreen"/></a> [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/MALTF/APK-Parser/blob/main/LICENSE)
 Apk parser lib, for decoding binary XML files, getting APK meta info.
 
 ---------------------------------------------------------------------
